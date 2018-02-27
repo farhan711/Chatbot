@@ -158,4 +158,5 @@ Start the client by running:
 ```python simpleclient.py -a 192.168.0.99 -p 9999```  
 (where the ChatBot Server host IP address or host-alias is supplied for the "-a" arg and ChatBot Server Port is supplied for the -p arg)
 
+> **NOTE:** Initially built for and during college IEEE project program.
 
